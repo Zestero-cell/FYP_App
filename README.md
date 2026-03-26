@@ -1,7 +1,3 @@
-Based on the structure and contents of your **Variable-Rate-Chemical-Dispersal-Application** repository, here is a professional `README.md` file. It highlights the agricultural computer vision focus of your project, specifically the weed detection and Variable Rate Application (VRA) for banana plantations.
-
-***
-
 # Variable-Rate-Chemical-Dispersal-Application: Occlusion-Aware Weed Detection & VRA System
 
 This repository contains the application for a Final Year Project focused on an occlusion-aware weed detection system for banana plantations. Developed in collaboration with **ICAR-NRCB Trichy**, the system uses drone imagery to identify weeds and calculate precise spray points for Variable Rate Application (VRA).
